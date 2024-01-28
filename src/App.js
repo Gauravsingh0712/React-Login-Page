@@ -28,7 +28,7 @@ function App() {
         <div className="font-bold gap-12 text-5xl">{count}</div>
         <button
           onClick={IncreaseHandler}
-          className="border-l-2 text-center w-20 border-[#bfbfbf] text-4xl"
+          className="border-l-2 text-center w-20 border-[#bfbfbf] text-5xl"
         >
           +
         </button>
